@@ -1,6 +1,6 @@
 # minisaltapp
 
-A new Flutter project.
+Salt Academy Mini Bootcamp - Flutter
 
 ## Getting Started
 
